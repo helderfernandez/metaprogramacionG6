@@ -1,0 +1,5 @@
+bin\Debug\Utilitario.dll
+bin\Debug\Utilitario.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Utilitario.dll
+obj\Debug\Utilitario.pdb

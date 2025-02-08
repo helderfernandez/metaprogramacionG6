@@ -1,0 +1,20 @@
+# Microsoft Developer Studio Project File - Database Project
+Begin DataProject = "Base de Datos"
+   MSDTVersion = "80"
+   DefDBRef = "serversie.dbbosque2.dbo"
+   Begin Folder = "Consultas"
+   End
+   Begin Folder = "Create Scripts"
+   End
+   Begin DBRefFolder = "Database References"
+      Begin DBRefNode = "serversie.dbbosque2.dbo"
+         ConnectStr = "Data Source=serversie;Initial Catalog=dbbosque2;Integrated Security=True"
+         Provider = "{91510608-8809-4020-8897-FBA057E22D54}"
+         Colorizer = 6
+      End
+   End
+   Begin Folder = "Procedimientos almacenados"
+   End
+   Begin Folder = "Tablas"
+   End
+End

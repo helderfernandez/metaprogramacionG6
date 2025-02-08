@@ -1,0 +1,15 @@
+bin\Debug\Negocio.dll
+bin\Debug\Negocio.pdb
+bin\Debug\Negocio.xml
+bin\Debug\Dal.dll
+bin\Debug\Utilitario.dll
+bin\Debug\Utilitario.pdb
+bin\Debug\Utilitario.xml
+bin\Debug\Dal.pdb
+bin\Debug\Dal.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Negocio.Resources.resources
+obj\Debug\Negocio.vbproj.GenerateResource.Cache
+obj\Debug\Negocio.dll
+obj\Debug\Negocio.xml
+obj\Debug\Negocio.pdb

@@ -1,0 +1,13 @@
+bin\Debug\Reportes.dll.config
+bin\Debug\Reportes.dll
+bin\Debug\Reportes.pdb
+bin\Debug\Reportes.xml
+bin\Debug\Negocio.dll
+bin\Debug\Negocio.pdb
+bin\Debug\Negocio.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Reportes.Resources.resources
+obj\Debug\Reportes.vbproj.GenerateResource.Cache
+obj\Debug\Reportes.dll
+obj\Debug\Reportes.xml
+obj\Debug\Reportes.pdb

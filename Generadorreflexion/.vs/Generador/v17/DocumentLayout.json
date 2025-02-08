@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8512AB3C-26EA-4CB9-91E4-407B2A211B56}|GeneradorReflexion.vbproj|d:\\aplicaciones 2025\\nota\\generador de clases vb\\auditoria\\frmauditoria.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8512AB3C-26EA-4CB9-91E4-407B2A211B56}|GeneradorReflexion.vbproj|solutionrelative:auditoria\\frmauditoria.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8512AB3C-26EA-4CB9-91E4-407B2A211B56}|GeneradorReflexion.vbproj|d:\\aplicaciones 2025\\nota\\generador de clases vb\\auditoria\\frmauditoria.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8512AB3C-26EA-4CB9-91E4-407B2A211B56}|GeneradorReflexion.vbproj|solutionrelative:auditoria\\frmauditoria.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8512AB3C-26EA-4CB9-91E4-407B2A211B56}|GeneradorReflexion.vbproj|d:\\aplicaciones 2025\\nota\\generador de clases vb\\generador de clases\\formgeneradorclasesql.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8512AB3C-26EA-4CB9-91E4-407B2A211B56}|GeneradorReflexion.vbproj|solutionrelative:generador de clases\\formgeneradorclasesql.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8512AB3C-26EA-4CB9-91E4-407B2A211B56}|Generador.vbproj|D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\generador de clases\\formgeneradorclasesql.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8512AB3C-26EA-4CB9-91E4-407B2A211B56}|Generador.vbproj|solutionrelative:generador de clases\\formgeneradorclasesql.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8512AB3C-26EA-4CB9-91E4-407B2A211B56}|GeneradorReflexion.vbproj|d:\\aplicaciones 2025\\nota\\generador de clases vb\\generador de clases\\formgeneradorclasesql.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8512AB3C-26EA-4CB9-91E4-407B2A211B56}|GeneradorReflexion.vbproj|solutionrelative:generador de clases\\formgeneradorclasesql.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8512AB3C-26EA-4CB9-91E4-407B2A211B56}|Generador.vbproj|D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\generador de clases\\formgeneradorclasesql.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8512AB3C-26EA-4CB9-91E4-407B2A211B56}|Generador.vbproj|solutionrelative:generador de clases\\formgeneradorclasesql.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8512AB3C-26EA-4CB9-91E4-407B2A211B56}|GeneradorReflexion.vbproj|d:\\aplicaciones 2025\\nota\\generador de clases vb\\generador de clases\\conexion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8512AB3C-26EA-4CB9-91E4-407B2A211B56}|GeneradorReflexion.vbproj|solutionrelative:generador de clases\\conexion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8512AB3C-26EA-4CB9-91E4-407B2A211B56}|Generador.vbproj|D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\generador de clases\\conexion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8512AB3C-26EA-4CB9-91E4-407B2A211B56}|Generador.vbproj|solutionrelative:generador de clases\\conexion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|GeneradorReflexion||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8512AB3C-26EA-4CB9-91E4-407B2A211B56}|Generador.vbproj|d:\\aplicaciones 2025\\nota\\generador de clases vb\\generador procedimiento almacenados\\frmsp.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8512AB3C-26EA-4CB9-91E4-407B2A211B56}|Generador.vbproj|solutionrelative:generador procedimiento almacenados\\frmsp.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8512AB3C-26EA-4CB9-91E4-407B2A211B56}|Generador.vbproj|D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\generador procedimiento almacenados\\frmsp.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8512AB3C-26EA-4CB9-91E4-407B2A211B56}|Generador.vbproj|solutionrelative:generador procedimiento almacenados\\frmsp.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8512AB3C-26EA-4CB9-91E4-407B2A211B56}|Generador.vbproj|D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\mdiparent1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8512AB3C-26EA-4CB9-91E4-407B2A211B56}|Generador.vbproj|solutionrelative:mdiparent1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8512AB3C-26EA-4CB9-91E4-407B2A211B56}|Generador.vbproj|D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\mdiparent1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8512AB3C-26EA-4CB9-91E4-407B2A211B56}|Generador.vbproj|solutionrelative:mdiparent1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8512AB3C-26EA-4CB9-91E4-407B2A211B56}|Generador.vbproj|D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\utilitarios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8512AB3C-26EA-4CB9-91E4-407B2A211B56}|Generador.vbproj|solutionrelative:utilitarios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8512AB3C-26EA-4CB9-91E4-407B2A211B56}|Generador.vbproj|D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\assemblyinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8512AB3C-26EA-4CB9-91E4-407B2A211B56}|Generador.vbproj|solutionrelative:assemblyinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8512AB3C-26EA-4CB9-91E4-407B2A211B56}|Generador.vbproj|D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\frmservidor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8512AB3C-26EA-4CB9-91E4-407B2A211B56}|Generador.vbproj|solutionrelative:frmservidor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8512AB3C-26EA-4CB9-91E4-407B2A211B56}|Generador.vbproj|D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\generador de clases\\frmpreviewclase.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8512AB3C-26EA-4CB9-91E4-407B2A211B56}|Generador.vbproj|solutionrelative:generador de clases\\frmpreviewclase.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8512AB3C-26EA-4CB9-91E4-407B2A211B56}|GeneradorReflexion.vbproj|d:\\aplicaciones 2025\\nota\\generador de clases vb\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|8998e48e-b89a-4034-b66e-353d8c1fdc2e"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmAuditoria.vb",
+              "DocumentMoniker": "D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\Auditoria\\FrmAuditoria.vb",
+              "RelativeDocumentMoniker": "Auditoria\\FrmAuditoria.vb",
+              "ToolTip": "D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\Auditoria\\FrmAuditoria.vb",
+              "RelativeToolTip": "Auditoria\\FrmAuditoria.vb",
+              "ViewState": "AQIAABEAAAAAAAAAAAAqwDIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-08T12:20:25.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmAuditoria.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\Auditoria\\FrmAuditoria.vb",
+              "RelativeDocumentMoniker": "Auditoria\\FrmAuditoria.vb",
+              "ToolTip": "D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\Auditoria\\FrmAuditoria.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Auditoria\\FrmAuditoria.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-08T12:20:22.82Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "formGeneradorClaseSQL.vb",
+              "DocumentMoniker": "D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\Generador de clases\\formGeneradorClaseSQL.vb",
+              "RelativeDocumentMoniker": "Generador de clases\\formGeneradorClaseSQL.vb",
+              "ToolTip": "D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\Generador de clases\\formGeneradorClaseSQL.vb",
+              "RelativeToolTip": "Generador de clases\\formGeneradorClaseSQL.vb",
+              "ViewState": "AQIAAKsDAAAAAAAAAAAqwK0DAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-08T11:58:02.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "conexion.vb",
+              "DocumentMoniker": "D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\Generador de clases\\conexion.vb",
+              "RelativeDocumentMoniker": "Generador de clases\\conexion.vb",
+              "ToolTip": "D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\Generador de clases\\conexion.vb",
+              "RelativeToolTip": "Generador de clases\\conexion.vb",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwBIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-08T11:58:02.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "formGeneradorClaseSQL.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\Generador de clases\\formGeneradorClaseSQL.vb",
+              "RelativeDocumentMoniker": "Generador de clases\\formGeneradorClaseSQL.vb",
+              "ToolTip": "D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\Generador de clases\\formGeneradorClaseSQL.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Generador de clases\\formGeneradorClaseSQL.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-08T11:58:05.001Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Utilitarios.vb",
+              "DocumentMoniker": "D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\Utilitarios.vb",
+              "RelativeDocumentMoniker": "Utilitarios.vb",
+              "ToolTip": "D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\Utilitarios.vb",
+              "RelativeToolTip": "Utilitarios.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-03T21:28:21.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmServidor.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\FrmServidor.vb",
+              "RelativeDocumentMoniker": "FrmServidor.vb",
+              "ToolTip": "D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\FrmServidor.vb [Dise\u00F1o]",
+              "RelativeToolTip": "FrmServidor.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-03T21:37:27.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MDIParent1.vb",
+              "DocumentMoniker": "D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\MDIParent1.vb",
+              "RelativeDocumentMoniker": "MDIParent1.vb",
+              "ToolTip": "D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\MDIParent1.vb",
+              "RelativeToolTip": "MDIParent1.vb",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAYwG0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-03T20:51:36.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AssemblyInfo.vb",
+              "DocumentMoniker": "D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\AssemblyInfo.vb",
+              "RelativeDocumentMoniker": "AssemblyInfo.vb",
+              "ToolTip": "D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\AssemblyInfo.vb",
+              "RelativeToolTip": "AssemblyInfo.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-03T21:38:02.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "formGeneradorClaseSQL.vb",
+              "DocumentMoniker": "D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\Generador de clases\\formGeneradorClaseSQL.vb",
+              "RelativeDocumentMoniker": "Generador de clases\\formGeneradorClaseSQL.vb",
+              "ToolTip": "D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\Generador de clases\\formGeneradorClaseSQL.vb",
+              "RelativeToolTip": "Generador de clases\\formGeneradorClaseSQL.vb",
+              "ViewState": "AQIAAEYFAAAAAAAAAAAWwFAFAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-03T21:29:49.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "conexion.vb",
+              "DocumentMoniker": "D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\Generador de clases\\conexion.vb",
+              "RelativeDocumentMoniker": "Generador de clases\\conexion.vb",
+              "ToolTip": "D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\Generador de clases\\conexion.vb",
+              "RelativeToolTip": "Generador de clases\\conexion.vb",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAewA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-03T21:49:19.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "formGeneradorClaseSQL.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\Generador de clases\\formGeneradorClaseSQL.vb",
+              "RelativeDocumentMoniker": "Generador de clases\\formGeneradorClaseSQL.vb",
+              "ToolTip": "D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\Generador de clases\\formGeneradorClaseSQL.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Generador de clases\\formGeneradorClaseSQL.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-03T20:40:09.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmSP.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\Generador Procedimiento Almacenados\\FrmSP.vb",
+              "RelativeDocumentMoniker": "Generador Procedimiento Almacenados\\FrmSP.vb",
+              "ToolTip": "D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\Generador Procedimiento Almacenados\\FrmSP.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Generador Procedimiento Almacenados\\FrmSP.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-03T21:40:07.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GeneradorReflexion",
+              "DocumentMoniker": "D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\GeneradorReflexion.vbproj",
+              "RelativeDocumentMoniker": "GeneradorReflexion.vbproj",
+              "ToolTip": "D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\GeneradorReflexion.vbproj",
+              "RelativeToolTip": "GeneradorReflexion.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-08T12:00:52.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MDIParent1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\MDIParent1.vb",
+              "RelativeDocumentMoniker": "MDIParent1.vb",
+              "ToolTip": "D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\MDIParent1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "MDIParent1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-03T21:44:17.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmSP.vb",
+              "DocumentMoniker": "D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\Generador Procedimiento Almacenados\\FrmSP.vb",
+              "RelativeDocumentMoniker": "Generador Procedimiento Almacenados\\FrmSP.vb",
+              "ToolTip": "D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\Generador Procedimiento Almacenados\\FrmSP.vb",
+              "RelativeToolTip": "Generador Procedimiento Almacenados\\FrmSP.vb",
+              "ViewState": "AQIAANQBAAAAAAAAAAAqwN8BAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-04T12:08:07.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmpreviewclase.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\Generador de clases\\frmpreviewclase.vb",
+              "RelativeDocumentMoniker": "Generador de clases\\frmpreviewclase.vb",
+              "ToolTip": "D:\\Aplicaciones 2025\\nota\\Generador de Clases VB\\Generador de clases\\frmpreviewclase.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Generador de clases\\frmpreviewclase.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-03T20:40:24.208Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+bin\Debug\Dal.dll
+bin\Debug\Dal.pdb
+bin\Debug\Dal.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Dal.Resources.resources
+obj\Debug\Dal.vbproj.GenerateResource.Cache
+obj\Debug\Dal.dll
+obj\Debug\Dal.xml
+obj\Debug\Dal.pdb

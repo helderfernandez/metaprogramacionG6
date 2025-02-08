@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\Negocio.dll
+bin\Debug\Negocio.pdb
+bin\Debug\DAL.dll
+bin\Debug\Utilitario.dll
+bin\Debug\Utilitario.pdb
+bin\Debug\DAL.pdb
+obj\Debug\Negocio.dll
+obj\Debug\Negocio.pdb

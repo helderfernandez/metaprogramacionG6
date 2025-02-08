@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentacion", "Presentación\Presentacion.csproj", "{2C3A63B3-960F-44B4-B860-9107258D4A85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{57DFCEAA-479E-4561-A77F-A156A2751407}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{B60F8E63-F8A4-41CE-9F22-A1326F3103D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilitario", "Utilitario\Utilitario.csproj", "{E5C60D0F-6B0C-42B0-A00C-5B3195A9DDAE}"
+EndProject
+Project("{4F174C21-8C12-11D0-8340-0000F80270F8}") = "Base de Datos", "Base de Datos\Base de Datos.dbp", "{3CD55E2A-217D-440A-885E-78F8F58BBFEA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{64C7042B-EE8F-4BE8-930A-190379E7EDA6}"
+	ProjectSection(SolutionItems) = preProject
+		..\Diagramas\Diagramas.eap = ..\Diagramas\Diagramas.eap
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reportes", "Reportes\Reportes.csproj", "{65F96DC9-89D8-4855-AE53-9F5B4F6827F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C3A63B3-960F-44B4-B860-9107258D4A85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C3A63B3-960F-44B4-B860-9107258D4A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C3A63B3-960F-44B4-B860-9107258D4A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C3A63B3-960F-44B4-B860-9107258D4A85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57DFCEAA-479E-4561-A77F-A156A2751407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57DFCEAA-479E-4561-A77F-A156A2751407}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57DFCEAA-479E-4561-A77F-A156A2751407}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57DFCEAA-479E-4561-A77F-A156A2751407}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B60F8E63-F8A4-41CE-9F22-A1326F3103D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B60F8E63-F8A4-41CE-9F22-A1326F3103D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B60F8E63-F8A4-41CE-9F22-A1326F3103D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B60F8E63-F8A4-41CE-9F22-A1326F3103D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5C60D0F-6B0C-42B0-A00C-5B3195A9DDAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5C60D0F-6B0C-42B0-A00C-5B3195A9DDAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5C60D0F-6B0C-42B0-A00C-5B3195A9DDAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5C60D0F-6B0C-42B0-A00C-5B3195A9DDAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65F96DC9-89D8-4855-AE53-9F5B4F6827F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65F96DC9-89D8-4855-AE53-9F5B4F6827F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65F96DC9-89D8-4855-AE53-9F5B4F6827F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65F96DC9-89D8-4855-AE53-9F5B4F6827F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

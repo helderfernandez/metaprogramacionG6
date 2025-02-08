@@ -1,0 +1,13 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Reportes.Gestionar_arbol.rptarbol.rpt
+bin\Debug\Reportes.dll.config
+bin\Debug\Reportes.dll
+bin\Debug\Reportes.pdb
+bin\Debug\DAL.dll
+bin\Debug\Negocio.dll
+bin\Debug\Utilitario.dll
+bin\Debug\Utilitario.pdb
+bin\Debug\DAL.pdb
+bin\Debug\Negocio.pdb
+obj\Debug\Reportes.dll
+obj\Debug\Reportes.pdb

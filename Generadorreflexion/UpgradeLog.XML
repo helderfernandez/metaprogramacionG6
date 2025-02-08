@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Generador">
+</Property><Property Name="Archivo de la solución" Value="D:\Documents and Settings\Administrador\Escritorio\Nueva carpeta\Generador de clases\Generador\Generador.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="D:\Documents and Settings\Administrador\Escritorio\Nueva carpeta\Generador de clases\Generador\Generador.suo">
+</Property><Property Name="Date" Value="martes, 22 enero, 2008">
+</Property><Property Name="Time" Value="22:11">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Generador.sln" Description="La copia D:\Documents and Settings\Administrador\Escritorio\Nueva carpeta\Generador de clases\Generador\Backup\Generador.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="Generador.suo" Description="La copia D:\Documents and Settings\Administrador\Escritorio\Nueva carpeta\Generador de clases\Generador\Backup\Generador.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="Generador" Source="Generador.vbproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto D:\Documents and Settings\Administrador\Escritorio\Nueva carpeta\Generador de clases\Generador\Backup\Generador.vbproj">
+</Event><Event ErrorLevel="0" Project="Generador" Source="Generador.vbproj.user" Description="La copia de seguridad D:\Documents and Settings\Administrador\Escritorio\Nueva carpeta\Generador de clases\Generador\Backup\Generador.vbproj.user del archivo se ha creado correctamente">
+</Event><Event ErrorLevel="0" Project="Generador" Source="AssemblyInfo.vb" Description="Se realizó correctamente la copia de seguridad del archivo D:\Documents and Settings\Administrador\Escritorio\Nueva carpeta\Generador de clases\Generador\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Generador" Source="Form1.vb" Description="Se realizó correctamente la copia de seguridad del archivo D:\Documents and Settings\Administrador\Escritorio\Nueva carpeta\Generador de clases\Generador\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="Generador" Source="Form1.resx" Description="Se realizó correctamente la copia de seguridad del archivo D:\Documents and Settings\Administrador\Escritorio\Nueva carpeta\Generador de clases\Generador\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Generador" Source="Generador.vbproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Generador" Source="Generador.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Generador.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="Generador.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Generador" Source="Generador.vbproj" Description="Búsqueda completa: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

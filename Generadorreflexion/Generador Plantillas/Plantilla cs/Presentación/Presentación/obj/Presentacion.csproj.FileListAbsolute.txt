@@ -1,0 +1,2 @@
+D:\c\Instaladores\generador de codigo\nota\Generador de Clases VB\Generador Plantillas\Plantilla cs\Presentación\Presentación\obj\Debug\Presentación.exe
+D:\c\Instaladores\generador de codigo\nota\Generador de Clases VB\Generador Plantillas\Plantilla cs\Presentación\Presentación\obj\Debug\Presentación.pdb
