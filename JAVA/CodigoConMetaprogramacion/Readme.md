@@ -55,7 +55,7 @@ Este proyecto es una implementación del clásico juego **Tres en Raya (Tic-Tac-
 
 ## **Estructura del Proyecto**
 ```
-tres-en-raya-java/
+CodigoConMetaprogramacion/
 │
 ├── Jugador.java            # Interfaz base para los jugadores
 ├── JugadorPersona.java     # Implementación del jugador humano
@@ -118,10 +118,5 @@ PC: pensando...
 Validando jugada antes de ejecutar...
 Jugada ejecutada con éxito.
 ```
-
----
-
-## **Licencia**
-Este proyecto está bajo la licencia **MIT**. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 ---
