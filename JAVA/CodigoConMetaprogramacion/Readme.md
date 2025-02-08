@@ -1,7 +1,3 @@
-¡Por supuesto! A continuación, te proporciono un contenido para el archivo **`README.md`** de tu proyecto en GitHub. Este archivo incluye una descripción del proyecto, instrucciones de instalación y ejecución, y detalles sobre las tecnologías utilizadas.
-
----
-
 # **PROYECTO para Metaprogramacion JAVA: Tres en Raya (Tic-Tac-Toe)**
 
 Este proyecto es una implementación del clásico juego **Tres en Raya (Tic-Tac-Toe)** en Java. Incluye dos tipos de jugadores: uno controlado por un humano y otro por la computadora. Además, se han aplicado técnicas avanzadas como **reflexión** y **proxy dinámico** para mejorar la flexibilidad y mantenibilidad del código.
